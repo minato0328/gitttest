@@ -1,0 +1,19 @@
+@charset "UTF-8";
+/* @BODY
+================================= */
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 62.5%;
+  background: #fff;
+  color: #000;
+  vertical-align: baseline;
+  font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "MS PGothic", Sans-Serif;
+  line-height: 1.7;
+  width: 100%;
+  min-width: 1200px;
+  height: 100%;
+  position: absolute;
+}
