@@ -3,3 +3,4 @@ var app102 = new Vue({
   data: { message: '<b>Hello!</b>' }
 })
 
+console.log("aaa")
